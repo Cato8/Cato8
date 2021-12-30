@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Toine
-- 👀 I’m interested in UI/UX Design, 3D, web design
+- 👀 I’m interested in UI/UX Design, 3D, web design, and web3
 - 📫 How to reach me ?
   You can reach me on my instagram -> www.instagram.com/motiontype8
 
