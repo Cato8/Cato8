@@ -1,4 +1,4 @@
-##WELCOME ON MY ACCOUNT 💻 ##
+## WELCOME ON MY ACCOUNT 💻 
 
 - Hi 👋 I’m Toine and I am 21yo 
 - I’m interested in UI/UX Design, 3D, web design, and web3 👀
