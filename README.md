@@ -60,9 +60,9 @@
   <div>
     <h2 align="center"> 📊 Github stats </h2>
       <br/>
-        <p align="center">
+         <p align="center">
           <a href="https://github.com/toine08/">
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toine08&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="toine08 :: Top Langs" /></a>
+          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=toine08&hide=rust&show_icons=true&theme=gruvbox&hide_border=true&layout=compact" alt="toine08 :: Top Langs" /></a>
         </p>
         <p align="center">
           <a href="https://github.com/toine08/">
@@ -84,3 +84,4 @@
 ------
 Credit: [1999azzar](https://github.com/1999azzar)
 Last Edited on: 01/06/2022
+
